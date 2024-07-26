@@ -16,7 +16,8 @@
 
 
 Lua API ☾  
-Handles Image uploads, aws? no thanks
+Handles Image uploads. 
+aws? no thanks
 
 Why? 
 Why not?
